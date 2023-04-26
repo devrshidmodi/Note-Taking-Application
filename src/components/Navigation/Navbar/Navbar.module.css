@@ -1,0 +1,34 @@
+.NavBar {
+    height: 4rem;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
+
+.Logo {
+    height: 80%;
+    color: white;   
+    display: flex;
+    align-items: center;
+}
+
+.Logo h1 {
+    padding-left: 1rem;
+}
+
+nav {
+    height: 100%
+}
+
+.Button {
+    height: 70%;
+    display: flex;
+}

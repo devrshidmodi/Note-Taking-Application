@@ -1,0 +1,23 @@
+.closeButton {
+    position: absolute;
+    background: none;
+    border: none;
+    top: 0;
+    right: 0;
+  }
+  
+  .svg {
+    display: inline-block;
+    width: 22px;
+    height: 22px;
+  }
+  
+  .svg path {
+    stroke: lightslategray !important;
+  }
+  
+  .svg:hover path,
+  .svg:active path {
+    stroke: black !important ;
+  }
+  

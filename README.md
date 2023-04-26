@@ -1,7 +1,7 @@
 Enhanced Note Taking Application!
 
 ## Trying it out
-Visit https://memo-io.herokuapp.com/ and play around with my application!
+Visit https://Note-Taking-Application.herokuapp.com/ and play around with my application!
 
 ## Getting Started
 
